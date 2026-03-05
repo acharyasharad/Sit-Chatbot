@@ -1,2 +1,27 @@
-# Sit-Chatbot
-A simple web-based project built using HTML, CSS, and JavaScript for the Hack-O-Week event. This project demonstrates front-end development concepts including responsive design, user interaction, and dynamic functionality using JavaScript.
+# Hack-O-Week Project
+
+This project was developed as part of the Hack-O-Week event. It is a simple web application created using HTML, CSS, and JavaScript.
+
+## Features
+- Clean and responsive user interface
+- Interactive functionality using JavaScript
+- Organized project structure
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+Hack-O-Week/
+│
+├── index.html     # Main webpage
+├── style.css      # Styling for the webpage
+└── script.js      # JavaScript functionality
+
+## How to Run
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+
+## Author
+Sharadvardhan Acharya
