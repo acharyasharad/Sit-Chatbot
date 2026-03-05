@@ -15,6 +15,7 @@ This project was developed as part of the Hack-O-Week event. It is a simple web 
 ## Project Structure
 Hack-O-Week/
 │
+
 ├── index.html     
 ├── style.css      
 └── script.js      
