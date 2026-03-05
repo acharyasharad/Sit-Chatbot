@@ -15,9 +15,9 @@ This project was developed as part of the Hack-O-Week event. It is a simple web 
 ## Project Structure
 Hack-O-Week/
 │
-├── index.html     # Main webpage
-├── style.css      # Styling for the webpage
-└── script.js      # JavaScript functionality
+├── index.html     
+├── style.css      
+└── script.js      
 
 ## How to Run
 1. Download or clone the repository.
